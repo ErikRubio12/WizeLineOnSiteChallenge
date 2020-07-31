@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WizeLineOnSiteChallenge</string>
+    <string name="error_title">WizeLineApp</string>
+    <string name="item_one">New Tweet</string>
+    <string name="collapsingToolBar">CollapsingToolbar</string>
+    <string name="submit">Submit</string>
+</resources>
